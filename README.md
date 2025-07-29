@@ -19,8 +19,8 @@ Este projeto simula uma conta bancária com funcionalidades básicas, como:
 ## Como executar
 
 1. Clone ou baixe este repositório
-git clone <https://github.com/LucasASalazar/ContaBancaria.git>
+- git clone <https://github.com/LucasASalazar/ContaBancaria.git>
 
 2. Compile os arquivos Java no terminal
-javac Conta.java TesteConta.java
-java TesteConta
+- javac Conta.java TesteConta.java
+- java TesteConta
